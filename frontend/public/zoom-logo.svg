@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <rect width="200" height="60" fill="transparent"/>
+  <rect x="20" y="15" width="40" height="30" rx="8" fill="#0B5CFF"/>
+  <polygon points="65,22 80,15 80,45 65,38" fill="#0B5CFF"/>
+  <text x="95" y="40" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="#0B5CFF" letter-spacing="-1">zoom</text>
+</svg>
